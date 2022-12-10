@@ -328,14 +328,12 @@ color: #FFFFFF;
     font-size: 20px;
     line-height: 1.2;
     color: var(--title-text-color);
-    margin-left: 16px;
 }
 
 .portfolio-text {
     color: var(--primary-text-color);
     font-size: 16px;
     line-height: 1.5;
-    margin-left: 16px;
 }
 
 .portfolio-main {
@@ -365,4 +363,9 @@ color: #FFFFFF;
     margin-bottom: 0;
 }
 
+.padding-portfolio {
+    padding-top: 32px;
+    padding-bottom: 32px;
+    padding-left: 16px;
+}
 
